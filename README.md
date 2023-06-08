@@ -3,6 +3,6 @@
 
 ![](https://komarev.com/ghpvc/?username=isaevfeed)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dracula&column=8&margin-w=20)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dracula&row=2&column=4&margin-w=20)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=KnlnKS&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
