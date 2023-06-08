@@ -4,4 +4,4 @@
 <h3 align="center">Senior PHP/Go Developer</h3>
 <h4 align="center">На данный момент тружусь в <b style="color:#fd7035">ПИК Digital</b></h4>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=flat)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
