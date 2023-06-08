@@ -1,3 +1,4 @@
-<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Daniil</a> 
+<h1 align="center">Всем привет, я - Михаил</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Computer science student, IT news writer from Russia 🇷🇺</h3>
+<h3 align="center">Senior PHP/Go Developer</h3>
+<h4>На данный момент тружусь в <b color="fd7035">ПИК Digital</b></h4>
