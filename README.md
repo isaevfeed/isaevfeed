@@ -3,3 +3,6 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dracula&column=8&margin-w=20)](https://github.com/ryo-ma/github-profile-trophy)
 
+## Что умею
+
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
