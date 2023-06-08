@@ -1,2 +1,2 @@
-### Senior PHP/Go Developer
-## Создаю сложные и интересные проекты
+# Senior PHP/Go Developer
+### Создаю сложные и интересные проекты
